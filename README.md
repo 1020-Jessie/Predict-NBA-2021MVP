@@ -15,7 +15,4 @@
 4. 測試資料集：爬取熱門球員本季戰績作為預測數據(NBA_test_data.csv)。
  <img width="918" alt="截圖 2021-06-21 下午9 15 05" src="https://user-images.githubusercontent.com/84361729/122767989-c29f0300-d2d5-11eb-816a-151183b1a42b.png">
 
-5. 訓練模型：
-
-
-* 參考：https://www.kaggle.com/ishaanupadhyay/mvp-prediction-random-forest-and-others
+5. 訓練模型與方法：詳見NBA.ipynb
