@@ -13,7 +13,7 @@
 3. 總共200筆資料成為訓練資料集(NBA_train_data.csv)。
 
 4. 測試資料集：爬取熱門球員本季戰績作為預測數據(NBA_test_data.csv)。
- <img width="862" alt="截圖 2021-06-21 上午11 07 01" src="https://user-images.githubusercontent.com/84361729/122701893-cfddd280-d280-11eb-8d15-fe63e6a4e4c5.png">
+ <img width="918" alt="截圖 2021-06-21 下午9 15 05" src="https://user-images.githubusercontent.com/84361729/122767989-c29f0300-d2d5-11eb-816a-151183b1a42b.png">
 
 5. 訓練模型：
 
